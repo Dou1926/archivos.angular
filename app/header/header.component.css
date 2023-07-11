@@ -1,0 +1,62 @@
+/* aca comienza mi ccs del header */
+.tiempos{
+    background-color: #e8bae8;
+    text-align: center;
+    margin-top: 2px;
+    padding: 1px;
+    border-radius: 20px;
+  }
+  
+  #bs {
+   font-size: 30px;
+  }
+  #bag{
+   position: absolute;
+   right: 120px;
+    font-size: 40px;
+    background: #e8bae8;
+    border-radius: 50px ;
+  
+  
+  }
+  #nav1{ position: absolute;
+  right: 300px;
+  font-size:x-large;
+  font-weight: bold;
+  }
+  
+  #buscador{
+   display: flex;
+   margin-left: 60px;
+  
+  }
+  
+  
+  #us{
+    position: absolute;
+    right: 50px;
+    font-size: 40px;
+    background: #e8bae8;
+    border-radius: 20px ;
+  
+  }
+  
+  #in{
+    position: absolute;
+    left: 720px;
+     font-size: 20px;
+    
+  
+  }
+  /* navegador 2*/
+  .navegador2{
+    display: flex;
+    height: 40px;
+    background-color:#fcbdf2;
+    margin-top: 15px;
+    justify-content: space-evenly;
+    align-items: center;
+    font-size:larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
